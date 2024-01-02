@@ -1,8 +1,10 @@
 ### ✨ _eager to learn, eager to collaborate!_
-
-📖 I'm a Biomedical Engineering student 
-✅ Worked as an Intern for an electrocardiology equipment company called Eccosur
-🔍 I’m currently investigating for my university final project!
-
+```
+- 📖 Biomedical Engineering student
+- ✅ Worked as an Intern for an electrocardiology equipment company called Eccosur
+- ✅ Worked as an academic assistant for Universidad Favaloro in Laboratorio de Programacion I
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+> You can find the repository we used in my Organizations.
+- 🔍 I’m currently investigating for my university final project!
+```
+
